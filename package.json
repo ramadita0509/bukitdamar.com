@@ -1,0 +1,8 @@
+{
+  "name": "recordstore-front",
+  "version": "1.0.0",
+  "description": "Avue.js front-end app for a Ruby on Rails API backend app.",
+  "main": "index.js",
+  "author": "Rama Dita",
+  "license": "MIT"
+}
